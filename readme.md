@@ -1,4 +1,4 @@
-#YASPET : React Edition
+# YASPET : React Edition
 
 Yet Another Starter Pack for Electron & Typescript ( aka YASPET ) 
 
