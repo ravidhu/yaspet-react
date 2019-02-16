@@ -43,4 +43,4 @@ You run tests for front and back with ;
 
 ## Author
 
-* **Ravidhu Dissanayake**
+**[Ravidhu Dissanayake](mailto:contact@ravidhu.com)**
