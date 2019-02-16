@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outDir": "./app/build/front",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "lib": [
+      "dom",
+      "es6"
+    ]
+  },
+  "include": [
+    "app/src/front/**/*.tsx",
+    "app/src/front/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "app/src/front/tests"
+  ]
+}
