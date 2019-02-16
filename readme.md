@@ -44,3 +44,8 @@ You run tests for front and back with ;
 ## Author
 
 **[Ravidhu Dissanayake](mailto:contact@ravidhu.com)**
+
+
+## Other Editions 
+
+* [YASPET : Angular Edtion](https://github.com/ravidhu/yaspet-angular)
