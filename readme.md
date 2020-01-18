@@ -4,7 +4,7 @@ Yet Another Starter Pack for Electron & Typescript ( aka YASPET )
 
 YASPET is a starter pack with :
 
-- Electron 4.
+- Electron 7.
 - Typescript 3 for main process.
 
 This edition come with React for front-end and some tooling for development :
