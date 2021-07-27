@@ -3,13 +3,21 @@
     "outDir": "./app/build/front",
     "sourceMap": true,
     "noImplicitAny": true,
+    "removeComments": true,
     "module": "commonjs",
     "target": "es5",
     "jsx": "react",
-    "lib": [
-      "dom",
-      "es6"
-    ]
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
   },
   "include": [
     "app/src/front/**/*.tsx",

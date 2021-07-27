@@ -16,8 +16,9 @@ export default class App extends React.Component {
                     <p>It's light like a breeze, it only come with :</p>
 
                     <ul>
-                        <li>Electron 4</li>
-                        <li>Typescript 3</li>
+                        <li>Electron 13</li>
+                        <li>Typescript 4</li>
+                        <li>React 17</li>
                     </ul>
 
                     <p>And Tooling for development :</p>

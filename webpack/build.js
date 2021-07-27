@@ -28,8 +28,6 @@ module.exports = {
     plugins: [
         new miniCssExtractPlugin({
             filename: 'bundle.css',
-            disable: false,
-            allChunks: true
         })
     ],
 

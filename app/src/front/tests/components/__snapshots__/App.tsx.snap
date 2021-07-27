@@ -23,10 +23,13 @@ exports[`Link changes the class when hovered 1`] = `
     </p>
     <ul>
       <li>
-        Electron 4
+        Electron 13
       </li>
       <li>
-        Typescript 3
+        Typescript 4
+      </li>
+      <li>
+        React 17
       </li>
     </ul>
     <p>
